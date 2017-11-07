@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  PhilipAssignment
+
+  Created by Amrendra on 13/10/17.
+  Copyright © 2017 Amrendra. All rights reserved.
+*/
+"Philips_Demo" = "This is Phiips demo";
+"please_wait" = "Please wait…";
+"search_text_empty" = "Please provide a language.";
+"ok_title" = "Ok";
+"cancel_title" = "Cancel";
+"no_network" = "Please check your network connection.";
+"no_data_available" = "No data available";
+"error_title" = "Error!";
+"text_repository_asynch" = "Check repository git api calling asynchronous.";
+"search_screen_title" = "Search";
+"detail_scren_title" = "Detail";
+"basic_info_header_title" = "Basic Info";
+"issues_cell_header_title" = "Three Newest Issues";
+"contributor_cell_header_title" = "Top Three Contributors";
+
